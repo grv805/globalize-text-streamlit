@@ -54,7 +54,7 @@ with col1:
                 [@KumarGaurav]")
 
 with col2:
-    st.image(image='proemail.jpg', width=500, caption='https://www.inventiva.co.in/wp-content/uploads/2022/02/add-1-780x470.jpg')
+    st.image(image='proemail.jpg', width=500)
 
 st.markdown("## Enter Your Email To Convert")
 

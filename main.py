@@ -50,11 +50,11 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown("Often professionals would like to improve their emails, but don't have the skills to do so. \n\n This tool \
                 will help you improve your email skills by converting your emails into a more professional format. This tool \
-                is powered by [LangChain](https://langchain.com/) and [OpenAI](https://openai.com) and made by \
-                [@GregKamradt](https://twitter.com/GregKamradt). \n\n View Source Code on [Github](https://github.com/gkamradt/globalize-text-streamlit/blob/main/main.py)")
+                is powered by ChatGPT by [OpenAI](https://openai.com) and made by \
+                [@KumarGaurav]")
 
 with col2:
-    st.image(image='TweetScreenshot.png', width=500, caption='https://twitter.com/DannyRichman/status/1598254671591723008')
+    st.image(image='proemail.jpg', width=500, caption='https://www.inventiva.co.in/wp-content/uploads/2022/02/add-1-780x470.jpg')
 
 st.markdown("## Enter Your Email To Convert")
 

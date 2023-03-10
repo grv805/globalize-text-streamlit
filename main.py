@@ -87,7 +87,7 @@ if len(email_input.split(" ")) > 700:
 
 def update_text_with_example():
     print ("in updated")
-    st.session_state.email_input = "Sally I am starts work at yours monday from dave"
+    st.session_state.email_input = "Sumit I am leave due to other work at monday from Gauav"
 
 st.button("*See An Example*", type='secondary', help="Click to see an example of the email you will be converting.", on_click=update_text_with_example)
 
